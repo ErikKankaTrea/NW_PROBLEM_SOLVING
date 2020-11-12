@@ -7,10 +7,10 @@ NOTE: Before testing it - You should: </p>
 
 You will find the following structure of files:</p>
 . /New Work
-   - /data  [Contains raw data] // YOU HAVE TO ADD HERE the german word2Vec model by its default name "german.model"
+   - /data  [Contains raw data and german.model] // YOU HAVE TO ADD HERE the german word2Vec model by its default name "german.model"
    - /notebooks [Analysis on data in order to set two/three approaches that have been tried]
    - /output [Outputs of preprocessed data and the matching tables 1:n]
-   - /rest_api [Easy/Dirty/Quick api with flask]
+   - /rest_api [Easy/Dirty/Quick api with flask with all files]
    - /src [utilities file with functions, common paths decorator functions, and the prototypes]
    - settings [you add your input/output paths - model and data share same input path]
 
