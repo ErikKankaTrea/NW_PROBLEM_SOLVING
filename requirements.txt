@@ -1,0 +1,10 @@
+Flask
+flask-swagger
+matplotlib
+notebook
+numpy
+pandas
+flasgger
+gensim
+scipy
+fuzzywuzzy
