@@ -18,10 +18,10 @@ You will find the following structure of files:</p>
 
 
 For the Flask API only two pages http://0.0.0.0:8000 (welcome page) http://0.0.0.0:8000/apidocs/ (api page) [change the 0.0.0.0 for your IPv4]
-
+(Its a pity that it has a bug and I didnt have time to find the solution, I guess is the flasswer parameter parsed and pandas)
 
 Addiotional comments: 
 Beyond the poor results, I agree that there is a large-finite ways of doing it, also adding their combinations. 
-["fuzzy join", "matrix factorization 10k X 50K", combine first approach then second approach ] 
+["fuzzy join", "matrix factorization 10k X 50K", clustering profiles and top closest entities can be assigned.... ] 
 
 Cheers!!
